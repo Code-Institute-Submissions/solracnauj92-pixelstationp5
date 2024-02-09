@@ -26,9 +26,8 @@ Before delving into the project challenges, it's important to note that a person
    - Required reinstalling all related libraries, causing time-consuming setbacks.
    - Disrupted the development flow for main projects and previous practice drafts.
 
-5. **Privacy Concerns and Workspace Timeout:**
+5. **Workspace Timeout on Gitpod:**
    - Faced privacy issues, particularly the need to reconfigure settings after each workspace timeout.
-   - Persistent challenge impacting efficiency and raising concerns about project security.
 
 ## Current Progress 
 
@@ -44,9 +43,11 @@ Welcome to Pixel Station – Your Retro Gaming Community! Are you a fan of the c
 
 Embark on a journey down memory lane as we bring together a community of passionate gamers who cherish the timeless appeal of vintage titles. Whether you're a Millennials player and Gen Z player or Generation Alpha curious about the gaming roots, Pixel Station is the place where gaming history comes to life.
 
-Users can share their latest and most unique experiences through posts, as well as interact with each other through like, comment, and follow functionalities. This is the frontend repository of the React-powered Pixel Station project. The backend repository of the project can be accessed [HERE](https://github.com/Lapratomo24/f-api).
+Users can share their latest and most unique experiences through posts, as well as interact with each other through like, comment, and follow functionalities. This is the frontend repository [HERE](https://github.com/solracnauj92/pixelstationp5) of the React-powered Pixel Station project. The backend repository of the project can be accessed [HERE](https://github.com/solracnauj92/drf-api).
 
-[Deployed Site](https://cosplay-mania.herokapp.com/)
+[Deployed Site](https://pixelstation-34f23d2cc74d.herokuapp.com/)
+
+
 
 ----
 
