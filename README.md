@@ -1,3 +1,8 @@
+[Frontend repository](https://github.com/solracnauj92/pixelstationp5) 
+[Backend repository](https://github.com/solracnauj92/drf-api).
+
+[Deployed Site - React](https://pixelstation-34f23d2cc74d.herokuapp.com/)
+
 
 # Project Struggles and Progress
 
